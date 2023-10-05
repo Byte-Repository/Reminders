@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string name="day8">Congratulations</string>
+    <string name="reminder1">Take your medication today.</string>
+    <string name="reminder2">Exercise today. Go outside and go for a run or practice yoga.</string>
+    <string name="reminder3">Study for class and finish your homework.</string>
+    <string name="reminder4">Meditate at least 5 minutes today.</string>
+    <string name="reminder5">Stay caught up at work.</string>
+    <string name="reminder6">Sleep 8 hours tonight to re-energize.</string>
+    <string name="reminder7">Carve out some time to spend with friends.</string>
+    <string name="reminder8">Enjoy time for yourself!</string>
+    <string name="exercise">Exercise today. Go outside and go for a run or practice yoga.</string>
+    <string name="friends">Carve out some time to spend with friends.</string>
+    <string name="medication">Take your medication today.</string>
+    <string name="meditate">Meditate at least 5 minutes today.</string>
+    <string name="party">Enjoy time for yourself.</string>
+    <string name="sleep">Sleep 8 hours tonight to re-energize.</string>
+    <string name="study">Study for class and finish your homework.</string>
+    <string name="work">Stay caught up at work.</string>
+</resources>
